@@ -4,4 +4,4 @@ React ile birlikte Redux'ı kullanmayı öğrenirken yapmış olduğum basit bir
 
 Projeyi yaparken YouTube'da React Dersleri kanalının derslerini takip ettim. 
 
-Canlı Proje: https://adylsay-todo-app.netlify.app/
+Canlı Proje: https://adylshay-todo-app.netlify.app/
